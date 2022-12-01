@@ -1,0 +1,40 @@
+button{
+  margin: 2rem;
+  
+}
+
+.map{
+  height: 60vh;
+  width: 60vw;
+}
+.addLocationMarker {
+    background-image: url("../Assets/SOH.png");
+    background-size: cover;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background-color: green;
+    border: solid 3px green;
+  }
+
+  .addLocationMarker2 {
+    background-image: url("../Assets/green_mark.png");
+    background-size: 20px 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    opacity: 1;
+    
+    
+  }
+
+  .marker {
+    background-image: url('../Assets/BMC.jpg');
+    background-size: cover;
+    width: 2rem;
+    height: 2rem;
+    background-color: black;
+    border: solid 3px black;
+  }
